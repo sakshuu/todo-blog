@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "name": "sakshi",
+      "email": "sakshi@gmail.com",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": 1
+    },
+    {
+      "name": "sakshi",
+      "email": "sakshi@gmail.com",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": 2
+    }
+  ],
+  "todos": [
+    {
+      "task": "Abhyas",
+      "desc": "Lern react",
+      "priority": "low",
+      "id": 1
+    },
+    {
+      "task": "Abhyas",
+      "desc": "Lern react",
+      "priority": "low",
+      "id": 2
+    },
+    {
+      "task": "Abhyas",
+      "desc": "Lern react",
+      "priority": "low",
+      "id": 3
+    },
+    {
+      "task": "Abhyas",
+      "desc": "Lern react",
+      "priority": "low",
+      "id": 4
+    },
+    {
+      "task": "Abhyas",
+      "desc": "Lern react",
+      "priority": "low",
+      "id": 5
+    },
+    {
+      "task": "Abhyas",
+      "desc": "Lern react",
+      "priority": "low",
+      "id": 6
+    },
+    {
+      "task": "Abhyas",
+      "desc": "Lern react",
+      "priority": "low",
+      "id": 7
+    }
+  ]
+}
